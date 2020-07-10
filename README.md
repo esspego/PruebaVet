@@ -1,2 +1,19 @@
-# PruebaVet
-Prueba de desarrollo login, registro y guardado de datos con firebase, vuejs y utilizando vuetify.
+# vetsprueba
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
